@@ -1,0 +1,8 @@
+node_modules/
+.env*
+*.har
+!examples/sample.har
+*.json
+*.html
+*.zip
+.test-work-*/
