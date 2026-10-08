@@ -10,7 +10,7 @@ A HAR file may contain request URLs, headers, cookies and response bodies. This 
 
 ## Try a synthetic example
 
-Download this repository or [the free ZIP](https://har-timing-brief-codex.yousuke-c5.chatgpt.site/#download), then run:
+Download this repository or [the free ZIP (documentation revision 1)](https://github.com/yyy8m/har-timing-lite/releases/download/v1.0.0/har-timing-lite-github-1.0.0-docs1.zip), then run:
 
 ```sh
 node har-timing-lite.mjs examples/sample.har
